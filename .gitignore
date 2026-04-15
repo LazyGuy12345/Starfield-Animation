@@ -25,3 +25,5 @@ Thumbs.db
 # Misc
 node_modules/
 __pycache__/
+
+sketch.properties
