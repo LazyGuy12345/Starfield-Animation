@@ -20,8 +20,3 @@ You can tweak the animation by modifying these variables in `star.pde`:
 - `speed` - Particle movement speed (default: 5.0)
 - `particle_size` - Size of particles (default: 4.0)
 - `flash_interval` - Frames between star twinkles (default: 60)
-
-## Requirements
-
-- Processing 3.0+
-- 1920x1080 display resolution (configurable in `size()`)
